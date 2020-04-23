@@ -1,0 +1,6 @@
+.expo/*
+.expo-shared/*
+node_modules/*
+
+# macOS
+.DS_Store
